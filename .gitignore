@@ -1,2 +1,23 @@
 # Project exclude paths
 /left-rotation/target/
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/sonarlint/issuestore/e/d/eddb081f729d5e897147776312298fee8b41c4b5
+/.idea/hakerrank.iml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/jarRepositories.xml
+/left-rotation/left-rotation.iml
+/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml
+/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0.xml
+/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_1_0.xml
+/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0.xml
+/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_1_0.xml
+/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml
+/minimum-swaps-2/minimum-swaps-2.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/new-year-chaos/new-year-chaos.iml
+/minimum-swaps-2/target/classes/Result.class
+/minimum-swaps-2/target/test-classes/ResultTest.class
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
